@@ -1,0 +1,4 @@
+services:
+  checker:
+    image: lanceleonard/linkcheckex:latest
+    build: .
